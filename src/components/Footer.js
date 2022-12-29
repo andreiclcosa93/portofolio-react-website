@@ -18,7 +18,7 @@ const Footer = () => {
             <div className="row">
                 <div className="col-lg-4 col-md-6 col-sm-6">
                     <div className="d-flex">
-                        <p>City Bacau st 200 office #32</p>
+                        <p>City st 200 office #32</p>
                     </div>
 
                     <div className="d-flex">
@@ -26,7 +26,7 @@ const Footer = () => {
                     </div>
 
                     <div className="d-flex">
-                        <p>andrei@gmail.com</p>
+                        <p>AANdrei@gmail.com</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-md-2 col-sm-6">
